@@ -45,8 +45,8 @@ Contributions are welcome! If you'd like to contribute to this project, follow t
 
 6. Finally, open a pull request on the original repository and describe your changes. Your pull request will be reviewed and merged if approved.
 
-## Star the Repo
+## Star the Repo ⭐️⭐️⭐️
 
-If you find this project helpful or interesting, please consider leaving a star on the repository. It would be greatly appreciated!
+If you find this project helpful or interesting, please consider leaving a ⭐️ on the repository. It would be greatly appreciated!
 
-Thank you for using the Contact Manager App!
+Thank you for using the *Contact Manager App*! 🚀
